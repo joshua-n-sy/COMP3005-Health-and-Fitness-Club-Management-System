@@ -19,35 +19,27 @@ Trainers can manage their availability by adding, viewing, or removing time slot
 Administrative staff oversee the operational aspects of the fitness club. They can manage rooms, equipment, and group fitness classes. This includes creating and updating rooms, assigning and tracking equipment, logging equipment issues, and scheduling or editing group classes while ensuring trainer and room availability.
 
 ## Setup Instructions
-1. Install Requirements
-Make sure you have the following installed:
-- Apache Maven
-- Java 17+
-- PostgreSQL 14+
-- A terminal or IDE
-
+1. Install Requirements: Apache Maven, Java 17+, PostgreSQL 14+, Terminal/IDE
 2. Clone the Repository
+```bash
 git clone
 cd health-and-fitness-club-management-system
-
-3. Set Up the PostgreSQL Database
-Start your PostgreSQL server.
-Open a SQL client.
-Run the provided DDL script.
-
-4. Configure database connection.
-
+```
+3. Set Up the PostgreSQL Database: Start your PostgreSQL server, open a SQL client, and run the provided DDL script.
+4. Configure Database Connection
 5. Build the Project
+```bash
 mvn clean compile
-
+```
 6. Start the Application
+```bash
 mvn exec:java
-
+```
 ## Author
-Name: Joshua Sy
-Course: COMP3005A – Database Management Systems
-Institution: Carleton University
-Date: December 1, 2025
+Name: Joshua Sy  
+Course: COMP3005A – Database Management Systems  
+Institution: Carleton University  
+Date: December 1, 2025  
 
 ## Video Demonstration
 A short video demonstration of the project can be viewed here: [Watch on Youtube](URL)
