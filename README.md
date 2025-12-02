@@ -22,7 +22,7 @@ Administrative staff oversee the operational aspects of the fitness club. They c
 1. Install Requirements: Apache Maven, Java 17+, PostgreSQL 14+, Terminal/IDE
 2. Clone the Repository
 ```bash
-git clone
+git clone https://github.com/joshua-n-sy/COMP3005-Health-and-Fitness-Club-Management-System.git  
 cd health-and-fitness-club-management-system
 ```
 3. Set Up the PostgreSQL Database: Start your PostgreSQL server, open a SQL client, and run the provided DDL script.
