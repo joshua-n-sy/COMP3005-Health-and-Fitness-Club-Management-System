@@ -1,5 +1,5 @@
 # Health and Fitness Club Management System
-COMP 3005 - Fall 2025 Final Project
+Fall 2025 - Final Project
 
 ## Overview
 This project implements a Health and Fitness Club Management System that provides a centralized, database-driven platform for managing the core operations of a modern fitness center. The system supports both personal training sessions and group fitness classes, ensuring organized scheduling, room allocation, and trainer coordination.
