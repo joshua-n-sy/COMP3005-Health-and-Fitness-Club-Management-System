@@ -42,4 +42,4 @@ Institution: Carleton University
 Date: December 1, 2025  
 
 ## Video Demonstration
-A short video demonstration of the project can be viewed here: [Watch on Youtube](URL)
+A short video demonstration of the project can be viewed here: [Watch on Youtube](https://youtu.be/fwgX-1fQB4A)
